@@ -1,5 +1,5 @@
 # Apache SkyWalking webpage
-This is the repository including all source codes of `http://skywalking.incubator.apache.org` and `http://skywalking.org`.
+This is the repository including all source codes of `http://skywalking.incubator.apache.org` and `http://skywalking.io`.
 
 Apache Infra deploys the webpage in branch `asf-site`, SkyWalking team governs sourse in branch `master`.
 
